@@ -3,7 +3,7 @@
  * @create: 2019-08-24 20:26
  */
 
-/*
+/**
 * package:包，对应到文件系统就是多级目录
 *   为了解决两个问题：
 *       1、文件同名问题
@@ -20,7 +20,7 @@
 *       net:网络包
 *       io:输入输出流包
 *
-* */
+*/
 public class PackageDemo {
     public static void main(String[] args) {
         java.util.Date date = new java.util.Date();
